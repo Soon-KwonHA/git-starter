@@ -48,6 +48,6 @@ Git 과 Github 을 능숙하게 다루기 위해선 자주 사용해보는 것�
 
 ## 9. Thanks to..
 - [@github](https://github.com)
-- [@jhoon2816](https://github.com/jhoon2816)
+- [@Soon-Kwon](https://github.com/Soon-KwonHA)
 - [@E-nuri](https://github.com/E-nuri)
 - [@Hongbre](https://github.com/hongbre)
